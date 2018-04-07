@@ -33,5 +33,6 @@
 		(snow no)
 		(weather cold)
 	) =>
-(printout t "Flood will not happen. Calm down." crlf) )
+ 		(printout t "Flood will not happen. Calm down." crlf)
+ )
 	
